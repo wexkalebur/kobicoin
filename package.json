@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.23.0",
-    "@deno/shim-deno": "~0.16.1",
+    "@deno/shim-deno": "~0.19.0",
     "@harmoniclabs/cbor": "^1.1.4",
     "@hono/zod-validator": "^0.2.0",
     "bignumber.js": "^9.1.2",
